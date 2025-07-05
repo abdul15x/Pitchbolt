@@ -1,6 +1,4 @@
-Sure! Here's a **rewritten, polished, and more professional version** of your PitchBolt README:
 
----
 
 # 🚀 PitchBolt – AI-Powered Startup Pitch Generator
 
@@ -87,6 +85,4 @@ Contributions are welcome! Feel free to fork the repo, create issues, and open p
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
 
-Let me know if you’d like me to include badges (e.g., build status, license), screenshots, or a live demo link.
